@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/base-lib-notification/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/aapt.iml" filepath="$PROJECT_DIR$/TodayTest/base-lib-notification/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/aapt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-jlogger/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/aapt1.iml" filepath="$PROJECT_DIR$/TodayTest/lib-jlogger/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/aapt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/source/aidl/aidl.iml" filepath="$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/source/aidl/aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/TodayTest/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/base-lib-notification/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/TodayTest/base-lib-notification/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-jlogger/build/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/TodayTest/lib-jlogger/build/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/source/buildConfig/buildConfig3.iml" filepath="$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/source/buildConfig/buildConfig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-jlogger/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile.iml" filepath="$PROJECT_DIR$/TodayTest/lib-jlogger/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/base-lib-notification/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile1.iml" filepath="$PROJECT_DIR$/TodayTest/base-lib-notification/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile2.iml" filepath="$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/generateDebugRFile2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-todaystepcounter/src/main/main.iml" filepath="$PROJECT_DIR$/TodayTest/lib-todaystepcounter/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-jlogger/src/main/main1.iml" filepath="$PROJECT_DIR$/TodayTest/lib-jlogger/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/base-lib-notification/src/main/main2.iml" filepath="$PROJECT_DIR$/TodayTest/base-lib-notification/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/app/src/main/main3.iml" filepath="$PROJECT_DIR$/TodayTest/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/base-lib-notification/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" filepath="$PROJECT_DIR$/TodayTest/base-lib-notification/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged1.iml" filepath="$PROJECT_DIR$/TodayTest/lib-todaystepcounter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayTest/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources.iml" filepath="$PROJECT_DIR$/TodayTest/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources.iml" />
+    </modules>
+  </component>
+</project>

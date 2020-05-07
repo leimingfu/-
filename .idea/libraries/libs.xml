@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/AMap_Location_V4.9.0_20200228.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/httpclient-cache-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/httpclient-win-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/HeWeather_Public_Android_V3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/httpmime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/fluent-hc-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TodayTest/app/libs/httpclient-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
